@@ -1,0 +1,1 @@
+# antesdelbaile initgit add README.mdgit commit -m first commitgit branch -M maingit remote add origin git@github.com:rodrigofer10/antesdelbaile.gitgit push -u origin main
